@@ -1,0 +1,13 @@
+ul{
+    background-color: black;
+    color: aliceblue;
+    list-style-type:none;
+    text-align: center;
+    
+}
+ul.li{
+    text-decoration:none;
+}
+i{
+    margin: 4px;
+}
